@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "rg"
-  location = "West Europe"
+  name     = "kamal-rg"
+  location = "central inida"
 }
